@@ -5,7 +5,7 @@
   channel = "stable-24.05"; # or "unstabl
   # Use https://search.nixos.org/packages to find packages
   packages = [
-    pkgs.nodejs_20
+    pkgs.nodejs_18
     pkgs.python3
     pkgs.gcc
     pkgs.gnumake
